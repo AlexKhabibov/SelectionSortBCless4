@@ -1,0 +1,15 @@
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/Буткемп. Программирование/Урок 4. Алгоритм «Сортировка выбором»/cw code/bin/Debug/net7.0/cw code
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/Буткемп. Программирование/Урок 4. Алгоритм «Сортировка выбором»/cw code/bin/Debug/net7.0/cw code.deps.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/Буткемп. Программирование/Урок 4. Алгоритм «Сортировка выбором»/cw code/bin/Debug/net7.0/cw code.runtimeconfig.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/Буткемп. Программирование/Урок 4. Алгоритм «Сортировка выбором»/cw code/bin/Debug/net7.0/cw code.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/Буткемп. Программирование/Урок 4. Алгоритм «Сортировка выбором»/cw code/bin/Debug/net7.0/cw code.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/Буткемп. Программирование/Урок 4. Алгоритм «Сортировка выбором»/cw code/obj/Debug/net7.0/cw code.csproj.AssemblyReference.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/Буткемп. Программирование/Урок 4. Алгоритм «Сортировка выбором»/cw code/obj/Debug/net7.0/cw code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/Буткемп. Программирование/Урок 4. Алгоритм «Сортировка выбором»/cw code/obj/Debug/net7.0/cw code.AssemblyInfoInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/Буткемп. Программирование/Урок 4. Алгоритм «Сортировка выбором»/cw code/obj/Debug/net7.0/cw code.AssemblyInfo.cs
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/Буткемп. Программирование/Урок 4. Алгоритм «Сортировка выбором»/cw code/obj/Debug/net7.0/cw code.csproj.CoreCompileInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/Буткемп. Программирование/Урок 4. Алгоритм «Сортировка выбором»/cw code/obj/Debug/net7.0/cw code.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/Буткемп. Программирование/Урок 4. Алгоритм «Сортировка выбором»/cw code/obj/Debug/net7.0/refint/cw code.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/Буткемп. Программирование/Урок 4. Алгоритм «Сортировка выбором»/cw code/obj/Debug/net7.0/cw code.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/Буткемп. Программирование/Урок 4. Алгоритм «Сортировка выбором»/cw code/obj/Debug/net7.0/cw code.genruntimeconfig.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/Буткемп. Программирование/Урок 4. Алгоритм «Сортировка выбором»/cw code/obj/Debug/net7.0/ref/cw code.dll
